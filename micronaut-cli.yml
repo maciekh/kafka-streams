@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, http-client, kafka, kafka-streams, kotlin, kotlin-application, logback, netty-server, readme, shade, spock, testcontainers, yaml]
